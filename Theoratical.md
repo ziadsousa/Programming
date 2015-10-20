@@ -1,3 +1,5 @@
+#Name : Ziad Yousry Abd-elsalam
+#Seat Number: 33751
 #       Assignment 1
 ##Questions from 1 - 4, 6, 8 - 10.
 ###Question 1:
